@@ -1,3 +1,3 @@
 # Bank App
 
-This project is built with React, TypeScript and Tailwind.
+This project was built with React, TypeScript and TailwindCSS.
